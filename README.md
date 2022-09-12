@@ -6,3 +6,4 @@ Alunos e Alunas da **Turma de Pensamento Computacional da 1ªSérie A** do Colé
 ##Linguagens
 - HTML
 - CSS
+
